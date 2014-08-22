@@ -1,0 +1,19 @@
+*.class
+*.iml
+.idea
+*.~
+
+# Package Files #
+*.jar
+*.war
+*.ear
+*.zip
+
+target
+.classpath
+.settings
+.project
+*.iml
+*.iws
+*.ipr
+.idea
